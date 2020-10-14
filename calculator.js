@@ -15,7 +15,6 @@ function minus(a, b) {
     return a - b
 }
 
-// add modulus function
 function modulus(a, b) {
     return a % b
 }
