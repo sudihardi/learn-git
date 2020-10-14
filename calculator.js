@@ -18,7 +18,3 @@ function minus(a, b) {
 function modulus(a, b) {
     return a % b
 }
-
-function modulus2(a, b) {
-    return a % b
-}
