@@ -16,6 +16,10 @@ function minus(a, b) {
 }
 
 // add modulus function
-function minus(a, b) {
+function modulus(a, b) {
+    return a % b
+}
+
+function modulus2(a, b) {
     return a % b
 }
