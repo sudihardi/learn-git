@@ -22,3 +22,7 @@ function modulus(a, b) {
 function modulusTest(a, b) {
     return a % b
 }
+
+function isSame(a, b) {
+    return a === b
+}
