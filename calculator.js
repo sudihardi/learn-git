@@ -14,3 +14,8 @@ function sum(a, b) {
 function minus(a, b) {
     return a - b
 }
+
+// add modulus function
+function minus(a, b) {
+    return a % b
+}
